@@ -1,0 +1,69 @@
+image1_poly.pbm :  
+nombre de contours = 2 
+nombre totale de segment = 18
+largeur = 4
+hauteur = 3
+
+image2_poly.pbm :  
+nombre de contours = 3
+nombre totale de segment = 56 
+largeur = 7
+hauteur = 9
+
+Bugs_Bunny.pbm :
+nombre de contours = 63
+nombre totale de segment = 13172
+largeur = 416
+hauteur = 768
+
+Charlot.pbm:
+nombre de contours = 34
+nombre totale de segment = 9040
+largeur = 412
+hauteur = 1216
+
+Pink_Panther.pbm:
+nombre de contours = 38 
+nombre totale de segment = 32028
+ largeur = 1500
+hauteur = 558
+
+animaux.pbm:
+nombre de contours = 96 
+nombre totale de segment = 34396
+largeur = 828
+hauteur = 1232
+
+damier_4_5_1.pbm:
+ nombre de contours = 4 
+nombre totale de segment =40
+largeur = 4
+hauteur = 5
+
+deux-des.pbm:
+nombre de contours = 38 
+nombre totale de segment =11124
+largeur = 595
+hauteur = 536
+
+dessin-delius.pbm:
+nombre de contours = 815 
+nombre totale de segment =110928
+largeur = 1600
+hauteur = 994
+
+gai-luron.pbm:
+nombre de contours = 375 
+nombre totale de segment =87636 
+largeur = 1112
+ hauteur = 1390
+
+papillon2.pbm:
+nombre de contours = 140
+nombre totale de segment =18212
+ largeur =1122
+hauteur = 417
+
+
+
+

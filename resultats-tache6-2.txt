@@ -1,0 +1,37 @@
+
+image_poly_tache6.pbm
+contours : 3
+Nombre de segments initial : 488
+Nombre de segments (d=1) : 68
+Nombre de segments (d=2) : 44
+
+JoaquimHock-LesArbres.pbm
+contours : 543
+Nombre de segments initial : 231284
+Nombre de segments (d=1) : 26572
+Nombre de segments (d=2) : 13090
+
+elephant-gotlib.pbm
+contours : 313
+Nombre de segments initial : 115564
+Nombre de segments (d=1) : 13189
+Nombre de segments (d=2) : 4281
+
+cheval.pbm
+contours : 59
+Nombre de segments initial : 32002
+Nombre de segments (d=1) : 3157
+Nombre de segments (d=2) : 1381
+
+goudyini-A.pbm
+contours : 258
+Nombre de segments initial : 73444
+Nombre de segments (d=1) : 5335
+Nombre de segments (d=2) : 2713
+
+papillon2.pbm
+contours : 140
+Nombre de segments initial : 18212
+Nombre de segments initial : 3686
+Nombre de segments (d=1) : 1913
+Nombre de segments (d=2) : 1037
